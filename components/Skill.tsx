@@ -25,7 +25,7 @@ function Skill({directionLeft}: Props) {
 
             </div>
         </div>
-        Skill</div>
+        </div>
   )
 }
 
